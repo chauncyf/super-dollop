@@ -1,0 +1,45 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.12.0" last-modified="1536604579000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="$USER_HOME$/.rbenv/versions/2.5.1/bin/ruby:BASE_20" value="0.2.3.beta2" />
+    <property name="$USER_HOME$/.rbenv/versions/2.5.1/bin/ruby:IDE" value="0.7.0.beta6" />
+    <property name="$USER_HOME$/.rbenv/versions/2.6.0/bin/ruby:BASE_20" value="0.2.3.beta3" />
+    <property name="$USER_HOME$/.rbenv/versions/2.6.0/bin/ruby:IDE" value="0.7.0.beta7" />
+    <property name="ColorChooser.RecentColors" value="238-238-238-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.680597" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="KEYMAP" value="rename&#10;scroll&#10;caret&#10;page&#10;nav" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="RubyTestUnit.Splitter.Proportion" value="0.17216721" />
+    <property name="RubyTestUnitSupport.hideIgnoredTests" value="false" />
+    <property name="RubyTestUnitSupport.hidePassedTests" value="false" />
+    <property name="RubyTestUnitSupport.openFailureLine" value="false" />
+    <property name="RunAnythingHistory" value="esu&#10;ho&#10;use&#10;ur" />
+    <property name="SearchEveryWhereHistory" value="follow.js&#10;serc&#10;header&#10;chatc&#10;profile" />
+    <property name="SettingsSearchHistory" value="Tab,Indent&#10;select line&#10;tab&#10;auto&#10;ignore" />
+    <property name="SplitFileEditor.Proportion" value="0.55200434" />
+    <property name="evlsprt.182" value="1664b9ad27b" />
+    <property name="evlsprt2.182" value="1660755910c" />
+    <property name="evlsprt3.182" value="19" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="file.gist.reindex.count" value="91620" />
+    <property name="fileTypeChangedCounter" value="10" />
+    <property name="find.popup.splitter" value="0.5376079" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="59255" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="rails.run.generators.popup.search.mask" value="scaffold" />
+    <property name="ruby.debug.console.enabled" value="true" />
+    <property name="ruby.sdk.configurable.top.splitter" value="0.49535194" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
