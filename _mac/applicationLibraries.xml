@@ -480,6 +480,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta3/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.3.beta5, rbenv: 2.6.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/test" />
+      </excluded>
+    </library>
     <library name="debase-ruby_core_source (v0.10.4, rbenv: 2.6.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
