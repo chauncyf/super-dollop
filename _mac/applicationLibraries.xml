@@ -313,6 +313,55 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/2.6.0/csv/core_ext" />
       </excluded>
     </library>
+    <library name="debase (v0.2.3.beta5, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/test" />
+      </excluded>
+    </library>
+    <library name="debase (v0.2.4.1, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-0.2.4.1/test" />
+      </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.9, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.9/lib" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.3.0, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -496,6 +545,37 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/2.6.0/json/add" />
+      </excluded>
+    </library>
+    <library name="json (v2.3.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/java" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/diagrams" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/java" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/diagrams" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/references" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/java" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/diagrams" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/json-2.3.0/references" />
       </excluded>
     </library>
     <library name="loofah (v2.4.0, rbenv: 2.6.5) [gem]" type="rubylib">
@@ -1050,6 +1130,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.79.0/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.79.0/assets" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.79.0/config" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.7.0.beta7, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/ext" />
       </excluded>
     </library>
     <library name="ruby-progressbar (v1.10.1, rbenv: 2.6.5) [gem]" type="rubylib">
