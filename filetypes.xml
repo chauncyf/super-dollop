@@ -11,6 +11,7 @@
       <mapping pattern="rabbit_helper" type="Ruby" />
       <mapping pattern="Artist" type="Ruby" />
       <mapping pattern="database_test" type="Ruby" />
+      <mapping pattern="generate_scrospy_nav.js" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
