@@ -2,16 +2,17 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="event_new.erb" type="PLAIN_TEXT" />
-      <mapping pattern="workflows" type="PLAIN_TEXT" />
       <mapping pattern="rabbit_receive_helper" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Artist.rb" type="PLAIN_TEXT" />
+      <mapping pattern="workflows" type="PLAIN_TEXT" />
       <mapping ext="item" type="PLAIN_TEXT" />
       <mapping pattern="database_test.rb" type="Ruby" />
       <mapping pattern="rabbit_helper" type="Ruby" />
       <mapping pattern="database_test" type="Ruby" />
       <mapping pattern="Artist" type="Ruby" />
+      <mapping pattern="UpdateSitemap" type="Ruby" />
       <mapping pattern="generate_scrospy_nav.js" type="TypeScript" />
     </extensionMap>
   </component>
